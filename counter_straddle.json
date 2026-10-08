@@ -1,0 +1,23 @@
+{
+ "K": "0-8;1-9;0-1-10;2-11;0-2-12;1-2-13;0-1-2-14;3-15",
+ "results": {
+  "none": {
+   "blocks": 16384,
+   "distinct": 256,
+   "monomials": 8,
+   "bound": 256
+  },
+  "sign": {
+   "blocks": 16384,
+   "distinct": 129,
+   "monomials": 8,
+   "bound": 256
+  },
+  "bit:2": {
+   "blocks": 16384,
+   "distinct": 1,
+   "monomials": 8,
+   "bound": 256
+  }
+ }
+}

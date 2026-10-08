@@ -1,0 +1,6 @@
+out/
+*.bin
+*.exe
+*.log
+__pycache__/
+*.pyc

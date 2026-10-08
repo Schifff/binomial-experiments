@@ -1,0 +1,169 @@
+{
+ "16": {
+  "bit0": {
+   "max_deg_in_u": 0,
+   "rank_of_span": 1
+  },
+  "bit1": {
+   "max_deg_in_u": 1,
+   "rank_of_span": 5
+  },
+  "bit2": {
+   "max_deg_in_u": 2,
+   "rank_of_span": 11
+  },
+  "bit3": {
+   "max_deg_in_u": 4,
+   "rank_of_span": 16
+  },
+  "bit4": {
+   "max_deg_in_u": -1,
+   "rank_of_span": 0
+  },
+  "sign": {
+   "max_deg_in_u": 4,
+   "rank_of_span": 16
+  },
+  "RM_dims": {
+   "0": 1,
+   "1": 5,
+   "2": 11,
+   "3": 15,
+   "4": 16
+  }
+ },
+ "32": {
+  "bit0": {
+   "max_deg_in_u": 0,
+   "rank_of_span": 1
+  },
+  "bit1": {
+   "max_deg_in_u": 1,
+   "rank_of_span": 6
+  },
+  "bit2": {
+   "max_deg_in_u": 2,
+   "rank_of_span": 16
+  },
+  "bit3": {
+   "max_deg_in_u": 4,
+   "rank_of_span": 31
+  },
+  "bit4": {
+   "max_deg_in_u": 5,
+   "rank_of_span": 32
+  },
+  "bit5": {
+   "max_deg_in_u": -1,
+   "rank_of_span": 0
+  },
+  "sign": {
+   "max_deg_in_u": 5,
+   "rank_of_span": 32
+  },
+  "RM_dims": {
+   "0": 1,
+   "1": 6,
+   "2": 16,
+   "3": 26,
+   "4": 31,
+   "5": 32
+  }
+ },
+ "64": {
+  "bit0": {
+   "max_deg_in_u": 0,
+   "rank_of_span": 1
+  },
+  "bit1": {
+   "max_deg_in_u": 1,
+   "rank_of_span": 7
+  },
+  "bit2": {
+   "max_deg_in_u": 2,
+   "rank_of_span": 22
+  },
+  "bit3": {
+   "max_deg_in_u": 4,
+   "rank_of_span": 57
+  },
+  "bit4": {
+   "max_deg_in_u": 6,
+   "rank_of_span": 64
+  },
+  "bit5": {
+   "max_deg_in_u": 6,
+   "rank_of_span": 64
+  },
+  "bit6": {
+   "max_deg_in_u": -1,
+   "rank_of_span": 0
+  },
+  "sign": {
+   "max_deg_in_u": 6,
+   "rank_of_span": 64
+  },
+  "RM_dims": {
+   "0": 1,
+   "1": 7,
+   "2": 22,
+   "3": 42,
+   "4": 57,
+   "5": 63,
+   "6": 64
+  }
+ },
+ "256": {
+  "bit0": {
+   "max_deg_in_u": 0,
+   "rank_of_span": 1
+  },
+  "bit1": {
+   "max_deg_in_u": 1,
+   "rank_of_span": 9
+  },
+  "bit2": {
+   "max_deg_in_u": 2,
+   "rank_of_span": 37
+  },
+  "bit3": {
+   "max_deg_in_u": 4,
+   "rank_of_span": 163
+  },
+  "bit4": {
+   "max_deg_in_u": 8,
+   "rank_of_span": 256
+  },
+  "bit5": {
+   "max_deg_in_u": 8,
+   "rank_of_span": 256
+  },
+  "bit6": {
+   "max_deg_in_u": 8,
+   "rank_of_span": 256
+  },
+  "bit7": {
+   "max_deg_in_u": 8,
+   "rank_of_span": 256
+  },
+  "bit8": {
+   "max_deg_in_u": -1,
+   "rank_of_span": 0
+  },
+  "sign": {
+   "max_deg_in_u": 8,
+   "rank_of_span": 256
+  },
+  "RM_dims": {
+   "0": 1,
+   "1": 9,
+   "2": 37,
+   "3": 93,
+   "4": 163,
+   "5": 219,
+   "6": 247,
+   "7": 255,
+   "8": 256
+  }
+ }
+}
